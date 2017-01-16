@@ -9,7 +9,7 @@
 
 #include <map>
 #include <vector>
-#include <v8/v8.h>
+#include <v8.h>
 #include <boost/function.hpp>
 #include "jml/utils/exc_assert.h"
 #include "jml/arch/demangle.h"
